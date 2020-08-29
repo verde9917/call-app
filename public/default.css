@@ -1,0 +1,53 @@
+header {
+    padding: 0;
+    margin: 0;
+}
+
+.btn1 {
+    display: inline-block;
+    position: relative;
+    padding: 0.5em 1.4em;
+    text-decoration: none;
+    background: #668ad8;/*ボタン色*/
+    color: #FFF;
+    border: none;
+    font-size: 1em;
+    margin-right: 10px;
+  }
+
+  h3 {
+      margin-bottom: 0;
+  }
+  #hp {
+      float: right;
+  }
+
+  body {
+    width: 90%;
+    margin: 20px;
+  }
+
+  #target {
+      margin-top: 0;
+  }
+
+  #app {
+      margin: 10px;
+  }
+
+  h1 {
+      padding-bottom: 20px;
+  }
+
+ ul  {
+    list-style: none;
+    padding-left: 20px;
+  }
+
+  li {
+      width: 200px;
+      background-color: #c1cbe1;
+      padding: 10px;
+      margin: 10px 0;
+      height: 80px;
+  }
